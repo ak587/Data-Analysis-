@@ -26,8 +26,8 @@ In this phase, the focus was on characterising the flow's "snapshot" properties.
 *   **Flow Visualisation:**
 <table>
   <tr>
-    <td><img src="Normalized_Vorticity.png" width="400" alt="Vorticity Field"/><br/><b>Normalized Vorticity Field</b></td>
-    <td><img src="PDF_CDF_du_dx.png" width="400" alt="PDF du/dx"/><br/><b>Non-Gaussian Tails in Velocity Gradients</b></td>
+    <td><img src="Results/Turbulence_data_analysis-1/Normalized_Vorticity.png" width="400" alt="Vorticity Field"/><br/><b>Normalized Vorticity Field</b></td>
+    <td><img src="Results/Turbulence_data_analysis-1/PDF_CDF_du_dx.png" width="400" alt="PDF du/dx"/><br/><b>Non-Gaussian Tails in Velocity Gradients</b></td>
   </tr>
 </table>
 
@@ -41,7 +41,7 @@ Turbulence is defined by the transfer of energy across scales. This phase valida
 *   **Anomalous Scaling:** Measured the scaling exponents ($\tau_p$) for structure functions up to the 7th order. The deviation from the linear $p/3$ theory clearly demonstrates **internal intermittency**.
 
 <p align="center">
-  <img src="Structure Function Scaling Exponents.png" width="600" />
+  <img src="Results/Turbulence_data_analysis-2/Structure Function Scaling Exponents.png" width="600" />
   <br/><i>Figure: Measured vs. Theoretical Scaling Exponents (highlighting intermittency effects).</i>
 </p>
 
@@ -56,8 +56,8 @@ Using a custom-built particle tracker, I analysed how particles disperse in a ch
 
 <table>
   <tr>
-    <td><img src="Q_R_scatter.png" width="400" alt="QR Scatter"/><br/><b>Flow Topology (Q-R Scatter)</b></td>
-    <td><img src="pair separation trajectories (Log-Log Scale).png" width="400" alt="Pair Separation"/><br/><b>Richardson Pair Dispersion Scaling</b></td>
+    <td><img src="Results/Turbulence_data_analysis-3/Q_R_scatter.png" width="400" alt="QR Scatter"/><br/><b>Flow Topology (Q-R Scatter)</b></td>
+    <td><img src="Results/Turbulence_data_analysis-3/pair separation trajectories (Log-Log Scale).png" width="400" alt="Pair Separation"/><br/><b>Richardson Pair Dispersion Scaling</b></td>
   </tr>
 </table>
 
