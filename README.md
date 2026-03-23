@@ -58,4 +58,3 @@ Log-log and semi-log scaling of particle pair separation over time, mathematical
 
 * **Memory Management:** Utilized NumPy broadcasting and array slicing to eliminate `for` loops during multi-million point calculations.
 * **Mathematical Operations:** `np.fft.fftn` for spectral transformations, `np.roots` for localized eigenvalue extraction of the gradient tensor.
-* **Execution:** Designed as lightweight scripts (`.py`) for direct deployment on Linux compute nodes/clusters.
