@@ -50,7 +50,7 @@ Automated FFT mapping of the kinetic energy spectrum, clearly identifying the in
 
 ### 3. Chaotic Dispersion (Richardson Pair Separation)
 Log-log and semi-log scaling of particle pair separation over time, mathematically proving the exponential divergence (Lyapunov) of neighboring particles in a turbulent field.
-> ![pair_separation_trajectories](Results/Turbulence_data_analysis-3/pair_separation_trajectories_Log-Log Scale.png)
+> ![pair_separation_trajectories](Results/Turbulence_data_analysis-3/pair_separation_trajectories_Log-Log_Scale.png)
 
 ---
 
